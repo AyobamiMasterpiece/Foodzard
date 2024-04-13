@@ -2,10 +2,17 @@
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "strict": true,
+     "baseUrl": ".",
     "paths": {
-      "@/*": [
-        "./*"
-      ]
+   
+        
+         "@/*": ["src/*"],
+      "@components/*": ["components/*"],
+      "@assets/*": ["assets/*"],
+      "@Providers/*":["Providers/*"],
+      "@lib/*":["lib/*"]
+
+      
     }
   },
   "include": [
@@ -13,5 +20,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/tabs/MealStack/index.js", "assets/food-ordering-asset-bundle/data/products.js", "app/_layout.js", "Providers/cartProvider.js", "app/Cart.js", "components/CartListItem.js", "app/tabs/MealStack/create.js", "assets/food-ordering-asset-bundle/data/orders.js", "api/products/index.js"]
 }
