@@ -1,8 +1,9 @@
 
 
 # Foodzard 🍔🚀
-
 ---
+Link to download : https://expo.dev/accounts/ayobami/projects/FoodOrdering/builds/2f237a55-5095-47f1-a75c-b0396dd18fdf
+
 
 Foodzard is your ultimate solution for hassle-free online food delivery! 📱💨 Built with React Native, Expo, TypeScript, and Supabase, this app revolutionizes how you order and enjoy your favorite meals. 
 
