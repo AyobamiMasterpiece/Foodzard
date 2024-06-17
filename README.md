@@ -2,7 +2,7 @@
 
 # Foodzard 🍔🚀
 ---
-Link to download : https://expo.dev/accounts/ayobami/projects/FoodOrdering/builds/2f237a55-5095-47f1-a75c-b0396dd18fdf
+Link to download : https://drive.google.com/file/d/16d_kyC0BSeushk3EGGhnOEIkXkhTB51I/view?usp=drivesdk 
 
 
 Foodzard is your ultimate solution for hassle-free online food delivery! 📱💨 Built with React Native, Expo, TypeScript, and Supabase, this app revolutionizes how you order and enjoy your favorite meals. 
@@ -45,4 +45,16 @@ To get started with Foodzard, follow these simple steps:
 4. **Start Exploring**: Access Foodzard on your preferred device or simulator and start exploring our delicious offerings!
 
 ---
+Take a look 
+
+
+![WhatsApp Image 2024-06-16 at 5 29 48 PM](https://github.com/AyobamiMasterpiece/Foodzard/assets/96892970/63b18004-672d-41e2-bfda-7636cf42c537)
+![WhatsApp Image 2024-06-16 at 5 29 49 PM](https://github.com/AyobamiMasterpiece/Foodzard/assets/96892970/ab924d5d-b39e-4aad-915a-956e0ba937df)
+![WhatsApp Image 2024-06-16 at 5 29 49 PM (1)](https://github.com/AyobamiMasterpiece/Foodzard/assets/96892970/714b8934-4598-4131-a92b-28d5c19a8e61)
+![WhatsApp Image 2024-06-16 at 5 29 49 PM (2)](https://github.com/AyobamiMasterpiece/Foodzard/assets/96892970/47fcd22f-b8ab-498a-b734-edeae6b8a105)
+![WhatsApp Image 2024-06-16 at 5 30 35 PM](https://github.com/AyobamiMasterpiece/Foodzard/assets/96892970/85a0b4e2-4c19-40d7-991e-4396f2213261)
+![WhatsApp Image 2024-06-16 at 5 29 48 PM](https://github.com/AyobamiMasterpiece/Foodzard/assets/96892970/a5701d1b-0c02-4010-9182-703bebface59)
+
+
+
 Let Foodzard be your go-to destination for delightful dining experiences. Download the app now and embark on a culinary journey like never before! Bon appétit! 🍽️🎉
